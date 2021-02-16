@@ -43,7 +43,7 @@ export const Content = styled.div`
   }
 
   > a {
-    color: #FF9000;
+    color: #ff9000;
     display: block;
     text-decoration: none;
     margin-top: 24px;
